@@ -143,7 +143,7 @@ public class EventEmitterProviderFactory implements EventListenerProviderFactory
     }
 
     public void postInit(KeycloakSessionFactory keycloakSessionFactory) {
-
+        // Nothing to init
     }
 
     public void close() {
